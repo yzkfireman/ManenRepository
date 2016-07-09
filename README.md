@@ -1,0 +1,2 @@
+# ManenRepository
+AiGuiQuanBasic
